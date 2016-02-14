@@ -5,6 +5,7 @@
 
 using namespace std;
 
+// This version of sqrt-root is being used to practice git
 int main (int argc, char *argv[])
 {
   if (argc < 2)
